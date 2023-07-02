@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading {
+    color: rgb(255, 255, 255);
+    background-color: rgb(247, 157, 175);
+    width: 50%;
+    margin: 28px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.back_button {
+    color: white;
+    font-size: 16px;
+    float: left;
+    margin-left: 30px;
+}
+
+.img {
+    height: 600px;
+    width: 800px;
+    margin: 20px;
+    box-shadow: 10px 10px 30px rgb(240, 214, 218);
+    border-radius: 15px;
+}
+
+#status {
+    margin: 5px;
+}
+canvas {
+    background-color: white;
+    border-color: pink;
+    box-shadow: 10px 10px 30px rgb(240, 214, 218);
+    margin-top: 50px;
+    border-radius: 15px;
+}
